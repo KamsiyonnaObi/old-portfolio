@@ -9,7 +9,7 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
         <div>
-            <AiFillLinkedin />
+            <a href="https://www.linkedin.com/in/kamsiyonna-obi-50a020167/" target="_blank"><AiFillLinkedin /> </a>
         </div> 
     </div>
   )
